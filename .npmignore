@@ -3,7 +3,5 @@
 /.npmignore
 /.jshintrc
 /Makefile
-/data/
-/static/
 /npm-debug.log
 /source-images/
