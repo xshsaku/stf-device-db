@@ -15386,8 +15386,8 @@
       "rom": 38912
     },
     "name": {
-      "id": "ASUS_Z017DA",
-      "long": "ZenFone 3"
+      "id": "ZenFone 3",
+      "long": "ASUS_Z017DA"
     },
     "os": {
       "type": "android",
@@ -15419,8 +15419,8 @@
       "rom": 38912
     },
     "name": {
-      "id": "503HW",
-      "long": "HUAWEI P9 lite"
+      "id": "HUAWEI P9 lite",
+      "long": "503HW"
     },
     "os": {
       "type": "android",
