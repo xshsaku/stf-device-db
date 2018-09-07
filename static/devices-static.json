@@ -15360,5 +15360,71 @@
       "type": "android",
       "ver": "7.0"
     }
+  },
+  "ASUS_Z017DA": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": ""
+    },
+    "date": "2016-10-07T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 3.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 4192,
+      "rom": 38912
+    },
+    "name": {
+      "id": "ASUS_Z017DA",
+      "long": "ZenFone 3"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
+  },
+  "503HW": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": ""
+    },
+    "date": "2016-06-17T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 3.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 4192,
+      "rom": 38912
+    },
+    "name": {
+      "id": "ASUS_Z017DA",
+      "long": "HUAWEI P9 lite"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
   }
 }
