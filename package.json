@@ -20,6 +20,6 @@
     "url": "https://github.com/xshsaku/stf-device-db.git"
   },
   "scripts": {
-    "prepublishOnly": "make"
+    "prepare": "make"
   }
 }
