@@ -15239,5 +15239,104 @@
       "type": "android",
       "ver": "4.4"
     }
+  },
+  "SC-O2H": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": ""
+    },
+    "date": "2016-05-19T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 3.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 4192,
+      "rom": 38912
+    },
+    "name": {
+      "id": "SC-O2H",
+      "long": "Galaxy S7 edge SC-02H"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
+  },
+  "ASUS_Z017DA": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": ""
+    },
+    "date": "2016-10-07T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 3.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 4192,
+      "rom": 38912
+    },
+    "name": {
+      "id": "ZenFone 3",
+      "long": "ASUS_Z017DA"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
+  },
+  "503HW": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": ""
+    },
+    "date": "2016-06-17T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 3.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 4192,
+      "rom": 38912
+    },
+    "name": {
+      "id": "HUAWEI P9 lite",
+      "long": "503HW"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
   }
 }
