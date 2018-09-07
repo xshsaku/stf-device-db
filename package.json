@@ -17,7 +17,7 @@
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xshsaku/stf-device-db.git"
+    "url": "https://github.com/xshsaku/stf-device-db.git"
   },
   "scripts": {
     "prepublish": "make"
