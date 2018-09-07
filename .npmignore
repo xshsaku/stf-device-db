@@ -2,6 +2,5 @@
 /*.tgz
 /.npmignore
 /.jshintrc
-/Makefile
 /npm-debug.log
 /source-images/
